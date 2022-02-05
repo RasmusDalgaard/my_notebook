@@ -8,14 +8,17 @@ import re
 names = ["Hans", "Mathilde", "Otto", "Hilda"]
 namesWithH = [n for n in names if n[0] == "H"]
 print(namesWithH)
+print()
 
 #B. In one line create a list of the numbers 1-100 to the power of 3
 cubes = [n**3 for n in range(1,101)]
 print(cubes)
+print()
 
 #C. Iterate a list of names to create a list of tuples where the tuples first value is the length of the name and the second is the name
 nameTuples = [tuple([len(n), n]) for n in names]
 print(nameTuples)
+print()
 
 #D. Iterate over each character in a string and get only those that are nummeric
 myString = "I am 23 and my IQ is 25 plus 5"
@@ -25,11 +28,13 @@ print(numbersInString)
 numbersInString2 = [int(n) for n in re.findall(r'\b\d+\b', myString)]
 print("Alternative solution: ")
 print(numbersInString2)
+print()
 
 #E. Using only a list comprehension wrapped in set() get all possible combinations from throwing 2 dice (hint use 2 for loops in a single list comprehension). 
 #Result should look like: [2,3,4,5,6,7,8,...] or a more complex/accurate solution: [(1,1),(1,2)...] in a way that (1,2) is equal to (2,1).
 combos = [(d1, d2) for d1 in range(1,7) for d2 in range(1,7)]
 print(combos)
+print()
 
 #######################################
 
@@ -39,11 +44,13 @@ print(combos)
 listOfNames = ["Rasmus", "Gitte", "Bent", "Manfred"]
 myDict = {key:len(key) for key in listOfNames}
 print(myDict)
+print()
 
 #B. Iterate a list of numbers and create a dictionary with {key:value} being {number:squareroot_of_number}
 listOfNumbers = [4, 9, 25, 36, 81]
 sqrtDict = {key:math.sqrt(key) for key in listOfNumbers}
 print(sqrtDict)
+print()
 
 
 
