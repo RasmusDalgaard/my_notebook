@@ -37,8 +37,8 @@ def write_headlines(folderpath, out='output.txt'):
 if __name__ == '__main__':
     #get_file_names('/home/jovyan/my_notebook/week2', 'output.txt')
     #get_all_file_names('/home/jovyan/my_notebook/week1', 'output.txt')
-    #print_line_one('/home/jovyan/my_notebook/week2/weeklyExercise')
+    print_line_one('/home/jovyan/my_notebook/week2/weeklyExercise')
     #print_emails('/home/jovyan/my_notebook/week2/weeklyExercise')
-    write_headlines('/home/jovyan/notebooks', 'output.txt')
+    #write_headlines('/home/jovyan/notebooks', 'output.txt')
 
         
