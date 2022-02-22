@@ -18,19 +18,18 @@ def show_population(year, area, age, country_code):
     return "Population", int(sum(dd[mask][:, 4]))
 
 
-def show_population_v2(year, area=None, age=None, country_code=None):
-    if age != None:
-        mask = (
-            (dd[:, 0] == year)
-            & (dd[:, 2] == age)
-            & (dd[:, 3] == country_code)
-            & (dd[:, 1] == area)
-        )
-        return "Population", int(sum(dd[mask][:, 4]))
-
-    else:
-        mask = (dd[:, 0] == year) & (dd[:, 3] == country_code) & (dd[:, 1] == area)
-        return "Population", int(sum(dd[mask][:, 4]))
+def show_population_v2(year, area=None, country_code=None, age=None,):
+    year_mask = dd[:,0] == year
+    area_mask = dd[:,1] if area == None else dd[:,1]==area
+    age_mask = dd[:,2] if age == None else dd[:,2]==age
+    country_code_mask = dd[:,3] if country_code == None else dd[:,3]==country_code
+    mask = (
+        (year_mask)
+        & (area_mask)
+        & (age_mask)
+        & (country_code_mask)
+    )
+    return "Population", int(sum(dd[mask][:, 4]))
 
 
 def nationals_by_area(year, nationality):
@@ -60,7 +59,7 @@ def find_french_age_by_year(year):
 
 # print("Amount of german children in 2015 aged 0:", int(sum(dd[german_children_aged_zero][:,4])))
 # print(show_population(2015,1,18,5100))
-# print(show_population_v2(2015, 1, 5100))
+print(show_population_v2(2015, 1, 5100))
 # print(nationals_by_area(1992, 5244))
 # print(find_area_with_fewest_foreigners(1992))
 # print(find_area_with_fewest_foreigners(2015))
