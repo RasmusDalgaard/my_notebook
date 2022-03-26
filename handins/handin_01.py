@@ -9,8 +9,9 @@ data = pd.read_csv(url, sep=',')
 def monuments_in_cph():
     monument_count = data.shape[0]
     print(monument_count)
+    return monument_count
 
-monuments_in_cph()
+
 
 #2. Hvor mange monumenter bliver vedligeholdt? Dvs. graffitirenhold = ja
 def maintained_monuments():
@@ -18,7 +19,6 @@ def maintained_monuments():
     num_of_m_monuments = len(m_monuments.index)
     print(num_of_m_monuments)
 
-maintained_monuments()
 
 #3. Lav en funktion som kan finde koordinaterne på et monument baseret på monumentets id eller navn?
 #	F.eks:
@@ -28,9 +28,8 @@ maintained_monuments()
 def monuments_coordinates(monument_id):
     data.set_index('id', inplace=True)
     monument = data.loc[monument_id]
-    print('x = ' + str(monument.iloc[6]) + '\n' + 'Y = ' + str(monument.iloc[7]))
-
-monuments_coordinates(49690)
+    print(type(monument.iloc[6]))
+    return monument.iloc[6], monument.iloc[7]
 
 	
 #3.a Vis monument som bliver returneret i metoden, på et kort over københavn ved brug af plotting. (Se afsnittet om 'Folium and Bokeh' under notebooks/03-3 Plotting)
@@ -48,7 +47,7 @@ def monument_name_by_coordinates(x, y, lon=None, lat=None):
     monument_name = monument.iloc[0, 1]
     print('Navn på monument: ' + monument_name)
 
-monument_name_by_coordinates(724407.424966, 6175719.798486)
+#monument_name_by_coordinates(724407.424966, 6175719.798486)
 
 #5. Lav en metode der optegner alle monumenterne på kortet ved brug af plotting.
 #   Se handin_01_charts
