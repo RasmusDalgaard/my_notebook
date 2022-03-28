@@ -28,9 +28,9 @@ def maintained_monuments():
 def monuments_coordinates(monument_id):
     data.set_index('id', inplace=True)
     monument = data.loc[monument_id]
-    print(type(monument.iloc[6]))
     return monument.iloc[6], monument.iloc[7]
 
+#monuments_coordinates(49865)
 	
 #3.a Vis monument som bliver returneret i metoden, på et kort over københavn ved brug af plotting. (Se afsnittet om 'Folium and Bokeh' under notebooks/03-3 Plotting)
 #   Se handin_01_charts
@@ -39,6 +39,7 @@ def monuments_coordinates(monument_id):
 #	x = 724407.424966
 #	y = 6175719.798486
 #	MULTIPOINT ((12.555485308174104 55.69383926601615))
+
 def monument_name_by_coordinates(x, y, lon=None, lat=None):
     if (lon == None & lat == None):
         monument = data.loc[(data['x'] == x) & (data['y'] == y)]
