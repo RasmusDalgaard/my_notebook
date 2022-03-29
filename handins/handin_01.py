@@ -11,6 +11,7 @@ def monuments_in_cph():
     print(monument_count)
     return monument_count
 
+#monuments_in_cph()
 
 
 #2. Hvor mange monumenter bliver vedligeholdt? Dvs. graffitirenhold = ja
@@ -18,6 +19,8 @@ def maintained_monuments():
     m_monuments = data[data['graffitirenhold'].str.contains('Ja') == True]
     num_of_m_monuments = len(m_monuments.index)
     print(num_of_m_monuments)
+
+#maintained_monuments()
 
 
 #3. Lav en funktion som kan finde koordinaterne på et monument baseret på monumentets id eller navn?
@@ -40,15 +43,12 @@ def monuments_coordinates(monument_id):
 #	y = 6175719.798486
 #	MULTIPOINT ((12.555485308174104 55.69383926601615))
 
-def monument_name_by_coordinates(x, y, lon=None, lat=None):
-    if (lon == None & lat == None):
-        monument = data.loc[(data['x'] == x) & (data['y'] == y)]
-    else:
-        monument = data.loc[(data['longitude'] == lon) & (data['latitude'] == lat)]
-    monument_name = monument.iloc[0, 1]
+def monument_name_by_coordinates(lon, lat):
+    monument = data[(data['longitude'] == lon) & (data['latitude'] == lat)]
+    monument_name = monument.iloc[0]['navn']
     print('Navn på monument: ' + monument_name)
 
-#monument_name_by_coordinates(724407.424966, 6175719.798486)
+#monument_name_by_coordinates(12.587330, 55.670313)
 
 #5. Lav en metode der optegner alle monumenterne på kortet ved brug af plotting.
 #   Se handin_01_charts
