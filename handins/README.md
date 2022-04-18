@@ -8,9 +8,10 @@ Delopgaverne med visualisering af data ligger i filen handin_01_charts og kan ek
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Handin 02 - Webscrabing med Selenium
-Delopgaver 4/4
+Handin 02 - Webscrabing med Selenium - Opgave 23 i Excel
+Delopgaver -  4/4
 
 Instruktioner:
+
 Udkommenter linjerne hvor de 4 metoder bliver kaldt.
 I opgave 4 kan bar chart ses i filen handin_02_charts og kan eksekveres i Jupyter Notebooks.
