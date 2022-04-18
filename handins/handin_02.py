@@ -6,6 +6,9 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import numpy as np
+import os
+from urllib.parse import urlparse
+import re
 
 options = Options()
 options.headless = True
@@ -25,27 +28,31 @@ def erDetFredag():
 #Opgave 2 - top 5 opskrifter fra nemlig.com
 #Doesn't work yet
 def top5recipes():
-    browser.get('https://www.nemlig.com')
+    browser.get('https://www.nemlig.com/opskrifter/mest-populaere')
     browser.implicitly_wait(2)
     browser.maximize_window()
 
     recipes = []
-    #Decline cookies and navigate to most popular recipes
-    browser.find_element_by_xpath('/html/body/div[1]/div/div/div[1]/div[2]/div[1]/button[1]').click()
-    browser.implicitly_wait(2)
-    browser.find_element_by_xpath('/html/body/div[3]/div/header/div[3]/main-navigation/mega-menu[7]/div/div/a').click()
-    browser.implicitly_wait(2)
-    browser.find_element_by_xpath('/html/body/div[4]/main/div/leftmenu/div/div/ul[2]/li[2]/a').click()
-    browser.implicitly_wait(2)
-    #Gets the div which contains all recipe-divs
-    allRecipes = browser.find_element_by_xpath('/html/body/div[4]/main/div/div/div/leftmenupage/section/div[1]/render-partial/div/recipelist-showall/div/div/div[1]')
-    for divs in allRecipes:
-        current_recipe_div = divs.find_element_by_xpath('//*[@id="page-content"]/div/leftmenupage/section/div[1]/render-partial/div/recipelist-showall/div/div/div[1]/recipelist-item[1]/div/div/div[2]')
-        for elements in current_recipe_div:
-            recipe_name = elements.find_element_by_xpath('//*[@id="page-content"]/div/leftmenupage/section/div[1]/render-partial/div/recipelist-showall/div/div/div[1]/recipelist-item[1]/div/div/div[2]/div[1]/a').text
-            recipes.append(recipe_name)
-    
+    links = []
+    for i in range(1,6):
+        #Gets the first 5 recipe-items
+        recipes_container = browser.find_elements_by_xpath(f'//*[@id="page-content"]/div/leftmenupage/section/div[1]/render-partial/div/recipelist-showall/div/div/div[1]/recipelist-item[{i}]/div/div/div[2]/div[1]')
+
+        for recipe in recipes_container:
+            #Finds the href of the <a> tag of the recipe-item
+            link = recipe.find_element_by_xpath(f'//*[@id="page-content"]/div/leftmenupage/section/div[1]/render-partial/div/recipelist-showall/div/div/div[1]/recipelist-item[{i}]/div/div/div[2]/div[1]/a').get_attribute('href')
+            links.append(link)
+
+    for link in links:
+        recipe_full_link = urlparse(link)
+        recipe_short_link = os.path.basename(recipe_full_link.path)
+        new_recipe_short_link = recipe_short_link.replace('-', ' ')
+        recipe_name = re.sub('[0123456789]', '', new_recipe_short_link)
+        recipes.append(recipe_name)
+    print(recipes)   
     return recipes
+
+#top5recipes()
 
 #Opgave 3 - Totale pris på gær, minimælk, banan og tomatpasta fra nemlig.com
 def total_price():
@@ -94,17 +101,21 @@ def womens_fiction():
     titles = []
     prices = []
 
+    #Get all titles and prices in the book list
     booklist_container = browser.find_element_by_xpath('//*[@id="default"]/div/div/div/div/section/div[2]/ol')
     booklist = booklist_container.find_elements_by_tag_name('li')
     browser.implicitly_wait(5)
     for book in booklist:
         currentTitle = book.find_element_by_tag_name('img').get_attribute('alt')
-        print(currentTitle)
         titles.append(currentTitle)
         browser.implicitly_wait(10)
         price = float(book.find_element_by_class_name('price_color').text.replace('£', ''))
-        print(price)
         prices.append(price)
+    
+    book_dict = dict(zip(titles, prices))
+    #Sorts the dict based on the value instead of the key, hence 'x: x[1]' instead of 'x: x[0]'
+    book_dict_sorted = dict(sorted(book_dict.items(), key=lambda x: x[1]))
+    return book_dict_sorted
 
-womens_fiction()
+#womens_fiction()
 
