@@ -8961,3 +8961,837 @@ JavaScript error: resource://activity-stream/lib/PersonalityProvider/Personality
 JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
 JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
 JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+1650310339056	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZUClVs"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1650310339912	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZUClVs/search.json.mozlz4", (void 0)))
+1650310342502	Marionette	INFO	Listening on port 46517
+1650310342617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650310350134	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei5P54O"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1650310350662	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilei5P54O/search.json.mozlz4", (void 0)))
+1650310353053	Marionette	INFO	Listening on port 40009
+1650310353195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.nemlig.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=307424183, line 1: unreachable code after return statement
+JavaScript warning: https://www.nemlig.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=307424183, line 1: unreachable code after return statement
+JavaScript warning: https://www.nemlig.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=307424183, line 1: unreachable code after return statement
+JavaScript warning: https://www.nemlig.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=307424183 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.nemlig.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=307424183 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/30c71fa2-8842-419c-89db-addd30268f5b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/fa731eb2-b049-44bc-a12d-f42f7cea991d.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/2a0dbd55-2eae-44ea-b787-5379594979ff.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/bd6fe48d-f356-4af1-bb7e-4de42b1e6272.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/c2485f5d-8bb1-4a45-a752-efffe9cd55c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/281d6a98-5f8e-4bc4-8bae-72e7e16933ca.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/e8645388-afc5-48e3-8f3f-80f82a5353dc.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/47d2bcee-b6c1-464e-a443-e3527d029b0f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/18f03fe5-a60f-48c5-8cb8-13da750ca395.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/cdd3cdfb-1988-482a-850f-ec02aff07f45.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/a3944b1a-5464-406f-a97e-691702019575.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/61c97d21-6576-4624-aa8b-37839293aebd.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/1db0b78b-42f2-44fd-b78c-43f5fc760fa1.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/393f4033-c815-48d4-bf23-1eb42b4d30db.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/76666027-45db-4baa-8197-6e0f886966a8.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/24538f21-45ca-4dab-addb-65f655a688e2.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/ad749af2-93d7-4bf3-982f-a558175fd806.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/f477331d-33dc-4dfe-be46-88d5223fb439.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/8267a2cc-0984-4410-87db-c02530703a98.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/3fcbb458-7362-47bb-a426-6b542eb2f014.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/5d011771-de98-48f3-8565-7fc1ef6439c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/145b9461-d6cc-4341-8d96-ec3bacace059.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/0685a1b5-34eb-4c13-8c90-bc82735e527f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/30c71fa2-8842-419c-89db-addd30268f5b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/fa731eb2-b049-44bc-a12d-f42f7cea991d.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/2a0dbd55-2eae-44ea-b787-5379594979ff.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/bd6fe48d-f356-4af1-bb7e-4de42b1e6272.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/c2485f5d-8bb1-4a45-a752-efffe9cd55c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/281d6a98-5f8e-4bc4-8bae-72e7e16933ca.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/e8645388-afc5-48e3-8f3f-80f82a5353dc.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/47d2bcee-b6c1-464e-a443-e3527d029b0f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/18f03fe5-a60f-48c5-8cb8-13da750ca395.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/cdd3cdfb-1988-482a-850f-ec02aff07f45.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/a3944b1a-5464-406f-a97e-691702019575.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/61c97d21-6576-4624-aa8b-37839293aebd.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/1db0b78b-42f2-44fd-b78c-43f5fc760fa1.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/393f4033-c815-48d4-bf23-1eb42b4d30db.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/76666027-45db-4baa-8197-6e0f886966a8.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/24538f21-45ca-4dab-addb-65f655a688e2.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/ad749af2-93d7-4bf3-982f-a558175fd806.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/f477331d-33dc-4dfe-be46-88d5223fb439.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/8267a2cc-0984-4410-87db-c02530703a98.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/3fcbb458-7362-47bb-a426-6b542eb2f014.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/5d011771-de98-48f3-8565-7fc1ef6439c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/145b9461-d6cc-4341-8d96-ec3bacace059.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/0685a1b5-34eb-4c13-8c90-bc82735e527f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/30c71fa2-8842-419c-89db-addd30268f5b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/fa731eb2-b049-44bc-a12d-f42f7cea991d.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/2a0dbd55-2eae-44ea-b787-5379594979ff.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/bd6fe48d-f356-4af1-bb7e-4de42b1e6272.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/c2485f5d-8bb1-4a45-a752-efffe9cd55c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/281d6a98-5f8e-4bc4-8bae-72e7e16933ca.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/e8645388-afc5-48e3-8f3f-80f82a5353dc.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/47d2bcee-b6c1-464e-a443-e3527d029b0f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/18f03fe5-a60f-48c5-8cb8-13da750ca395.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/cdd3cdfb-1988-482a-850f-ec02aff07f45.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/a3944b1a-5464-406f-a97e-691702019575.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/61c97d21-6576-4624-aa8b-37839293aebd.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/1db0b78b-42f2-44fd-b78c-43f5fc760fa1.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/393f4033-c815-48d4-bf23-1eb42b4d30db.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/76666027-45db-4baa-8197-6e0f886966a8.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/24538f21-45ca-4dab-addb-65f655a688e2.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/ad749af2-93d7-4bf3-982f-a558175fd806.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/f477331d-33dc-4dfe-be46-88d5223fb439.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/8267a2cc-0984-4410-87db-c02530703a98.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/3fcbb458-7362-47bb-a426-6b542eb2f014.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/5d011771-de98-48f3-8565-7fc1ef6439c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/145b9461-d6cc-4341-8d96-ec3bacace059.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/0685a1b5-34eb-4c13-8c90-bc82735e527f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/e4fb5038-c29e-4954-98a0-72a882e4841f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/e4fb5038-c29e-4954-98a0-72a882e4841f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/e4fb5038-c29e-4954-98a0-72a882e4841f.json: "
+1650310619866	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXRBXE3"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1650310620478	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXRBXE3/search.json.mozlz4", (void 0)))
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/30c71fa2-8842-419c-89db-addd30268f5b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/fa731eb2-b049-44bc-a12d-f42f7cea991d.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/2a0dbd55-2eae-44ea-b787-5379594979ff.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/bd6fe48d-f356-4af1-bb7e-4de42b1e6272.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/c2485f5d-8bb1-4a45-a752-efffe9cd55c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/281d6a98-5f8e-4bc4-8bae-72e7e16933ca.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/e8645388-afc5-48e3-8f3f-80f82a5353dc.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/47d2bcee-b6c1-464e-a443-e3527d029b0f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/18f03fe5-a60f-48c5-8cb8-13da750ca395.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/cdd3cdfb-1988-482a-850f-ec02aff07f45.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/a3944b1a-5464-406f-a97e-691702019575.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/61c97d21-6576-4624-aa8b-37839293aebd.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/1db0b78b-42f2-44fd-b78c-43f5fc760fa1.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/393f4033-c815-48d4-bf23-1eb42b4d30db.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/76666027-45db-4baa-8197-6e0f886966a8.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/24538f21-45ca-4dab-addb-65f655a688e2.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/ad749af2-93d7-4bf3-982f-a558175fd806.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/f477331d-33dc-4dfe-be46-88d5223fb439.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/8267a2cc-0984-4410-87db-c02530703a98.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/3fcbb458-7362-47bb-a426-6b542eb2f014.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/5d011771-de98-48f3-8565-7fc1ef6439c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/145b9461-d6cc-4341-8d96-ec3bacace059.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/0685a1b5-34eb-4c13-8c90-bc82735e527f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/30c71fa2-8842-419c-89db-addd30268f5b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/fa731eb2-b049-44bc-a12d-f42f7cea991d.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/2a0dbd55-2eae-44ea-b787-5379594979ff.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/bd6fe48d-f356-4af1-bb7e-4de42b1e6272.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/c2485f5d-8bb1-4a45-a752-efffe9cd55c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/281d6a98-5f8e-4bc4-8bae-72e7e16933ca.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/e8645388-afc5-48e3-8f3f-80f82a5353dc.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/47d2bcee-b6c1-464e-a443-e3527d029b0f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/18f03fe5-a60f-48c5-8cb8-13da750ca395.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/cdd3cdfb-1988-482a-850f-ec02aff07f45.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/a3944b1a-5464-406f-a97e-691702019575.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/61c97d21-6576-4624-aa8b-37839293aebd.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/1db0b78b-42f2-44fd-b78c-43f5fc760fa1.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/393f4033-c815-48d4-bf23-1eb42b4d30db.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/76666027-45db-4baa-8197-6e0f886966a8.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/24538f21-45ca-4dab-addb-65f655a688e2.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/ad749af2-93d7-4bf3-982f-a558175fd806.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/f477331d-33dc-4dfe-be46-88d5223fb439.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/8267a2cc-0984-4410-87db-c02530703a98.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/3fcbb458-7362-47bb-a426-6b542eb2f014.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/5d011771-de98-48f3-8565-7fc1ef6439c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/145b9461-d6cc-4341-8d96-ec3bacace059.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/0685a1b5-34eb-4c13-8c90-bc82735e527f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/30c71fa2-8842-419c-89db-addd30268f5b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/fa731eb2-b049-44bc-a12d-f42f7cea991d.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/2a0dbd55-2eae-44ea-b787-5379594979ff.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/bd6fe48d-f356-4af1-bb7e-4de42b1e6272.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/c2485f5d-8bb1-4a45-a752-efffe9cd55c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/281d6a98-5f8e-4bc4-8bae-72e7e16933ca.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/e8645388-afc5-48e3-8f3f-80f82a5353dc.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/47d2bcee-b6c1-464e-a443-e3527d029b0f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/18f03fe5-a60f-48c5-8cb8-13da750ca395.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/cdd3cdfb-1988-482a-850f-ec02aff07f45.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/a3944b1a-5464-406f-a97e-691702019575.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/61c97d21-6576-4624-aa8b-37839293aebd.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/1db0b78b-42f2-44fd-b78c-43f5fc760fa1.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/393f4033-c815-48d4-bf23-1eb42b4d30db.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/76666027-45db-4baa-8197-6e0f886966a8.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/24538f21-45ca-4dab-addb-65f655a688e2.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/ad749af2-93d7-4bf3-982f-a558175fd806.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/f477331d-33dc-4dfe-be46-88d5223fb439.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/8267a2cc-0984-4410-87db-c02530703a98.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/3fcbb458-7362-47bb-a426-6b542eb2f014.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/5d011771-de98-48f3-8565-7fc1ef6439c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/145b9461-d6cc-4341-8d96-ec3bacace059.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/0685a1b5-34eb-4c13-8c90-bc82735e527f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/e4fb5038-c29e-4954-98a0-72a882e4841f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/e4fb5038-c29e-4954-98a0-72a882e4841f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/e4fb5038-c29e-4954-98a0-72a882e4841f.json: "
+1650310624310	Marionette	INFO	Listening on port 35607
+1650310624465	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.nemlig.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=645899327, line 1: unreachable code after return statement
+JavaScript warning: https://www.nemlig.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=645899327, line 1: unreachable code after return statement
+JavaScript warning: https://www.nemlig.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=645899327, line 1: unreachable code after return statement
+JavaScript warning: https://www.nemlig.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=645899327 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.nemlig.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=645899327 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+1650310642430	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevOOqMr"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1650310643024	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevOOqMr/search.json.mozlz4", (void 0)))
+1650310646101	Marionette	INFO	Listening on port 38247
+1650310646207	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.nemlig.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1699412647, line 1: unreachable code after return statement
+JavaScript warning: https://www.nemlig.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1699412647, line 1: unreachable code after return statement
+JavaScript warning: https://www.nemlig.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1699412647, line 1: unreachable code after return statement
+JavaScript warning: https://www.nemlig.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1699412647 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.nemlig.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1699412647 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/30c71fa2-8842-419c-89db-addd30268f5b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/fa731eb2-b049-44bc-a12d-f42f7cea991d.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/2a0dbd55-2eae-44ea-b787-5379594979ff.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/bd6fe48d-f356-4af1-bb7e-4de42b1e6272.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/c2485f5d-8bb1-4a45-a752-efffe9cd55c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/281d6a98-5f8e-4bc4-8bae-72e7e16933ca.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/e8645388-afc5-48e3-8f3f-80f82a5353dc.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/47d2bcee-b6c1-464e-a443-e3527d029b0f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/18f03fe5-a60f-48c5-8cb8-13da750ca395.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/cdd3cdfb-1988-482a-850f-ec02aff07f45.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/a3944b1a-5464-406f-a97e-691702019575.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/61c97d21-6576-4624-aa8b-37839293aebd.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/1db0b78b-42f2-44fd-b78c-43f5fc760fa1.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/393f4033-c815-48d4-bf23-1eb42b4d30db.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/76666027-45db-4baa-8197-6e0f886966a8.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/24538f21-45ca-4dab-addb-65f655a688e2.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/ad749af2-93d7-4bf3-982f-a558175fd806.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/f477331d-33dc-4dfe-be46-88d5223fb439.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/8267a2cc-0984-4410-87db-c02530703a98.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/3fcbb458-7362-47bb-a426-6b542eb2f014.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/5d011771-de98-48f3-8565-7fc1ef6439c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/145b9461-d6cc-4341-8d96-ec3bacace059.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/0685a1b5-34eb-4c13-8c90-bc82735e527f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/30c71fa2-8842-419c-89db-addd30268f5b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/fa731eb2-b049-44bc-a12d-f42f7cea991d.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/2a0dbd55-2eae-44ea-b787-5379594979ff.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/bd6fe48d-f356-4af1-bb7e-4de42b1e6272.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/c2485f5d-8bb1-4a45-a752-efffe9cd55c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/281d6a98-5f8e-4bc4-8bae-72e7e16933ca.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/e8645388-afc5-48e3-8f3f-80f82a5353dc.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/47d2bcee-b6c1-464e-a443-e3527d029b0f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/18f03fe5-a60f-48c5-8cb8-13da750ca395.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/cdd3cdfb-1988-482a-850f-ec02aff07f45.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/a3944b1a-5464-406f-a97e-691702019575.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/61c97d21-6576-4624-aa8b-37839293aebd.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/1db0b78b-42f2-44fd-b78c-43f5fc760fa1.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/393f4033-c815-48d4-bf23-1eb42b4d30db.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/76666027-45db-4baa-8197-6e0f886966a8.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/24538f21-45ca-4dab-addb-65f655a688e2.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/ad749af2-93d7-4bf3-982f-a558175fd806.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/f477331d-33dc-4dfe-be46-88d5223fb439.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/8267a2cc-0984-4410-87db-c02530703a98.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/3fcbb458-7362-47bb-a426-6b542eb2f014.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/5d011771-de98-48f3-8565-7fc1ef6439c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/145b9461-d6cc-4341-8d96-ec3bacace059.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/0685a1b5-34eb-4c13-8c90-bc82735e527f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/30c71fa2-8842-419c-89db-addd30268f5b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/fa731eb2-b049-44bc-a12d-f42f7cea991d.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/2a0dbd55-2eae-44ea-b787-5379594979ff.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/bd6fe48d-f356-4af1-bb7e-4de42b1e6272.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/c2485f5d-8bb1-4a45-a752-efffe9cd55c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/281d6a98-5f8e-4bc4-8bae-72e7e16933ca.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/e8645388-afc5-48e3-8f3f-80f82a5353dc.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/47d2bcee-b6c1-464e-a443-e3527d029b0f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/18f03fe5-a60f-48c5-8cb8-13da750ca395.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/cdd3cdfb-1988-482a-850f-ec02aff07f45.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/a3944b1a-5464-406f-a97e-691702019575.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/61c97d21-6576-4624-aa8b-37839293aebd.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/1db0b78b-42f2-44fd-b78c-43f5fc760fa1.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/393f4033-c815-48d4-bf23-1eb42b4d30db.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/76666027-45db-4baa-8197-6e0f886966a8.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/24538f21-45ca-4dab-addb-65f655a688e2.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/ad749af2-93d7-4bf3-982f-a558175fd806.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/f477331d-33dc-4dfe-be46-88d5223fb439.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/8267a2cc-0984-4410-87db-c02530703a98.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/3fcbb458-7362-47bb-a426-6b542eb2f014.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/5d011771-de98-48f3-8565-7fc1ef6439c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/145b9461-d6cc-4341-8d96-ec3bacace059.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/0685a1b5-34eb-4c13-8c90-bc82735e527f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/e4fb5038-c29e-4954-98a0-72a882e4841f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/e4fb5038-c29e-4954-98a0-72a882e4841f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/e4fb5038-c29e-4954-98a0-72a882e4841f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/30c71fa2-8842-419c-89db-addd30268f5b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/fa731eb2-b049-44bc-a12d-f42f7cea991d.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/2a0dbd55-2eae-44ea-b787-5379594979ff.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/bd6fe48d-f356-4af1-bb7e-4de42b1e6272.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/c2485f5d-8bb1-4a45-a752-efffe9cd55c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/281d6a98-5f8e-4bc4-8bae-72e7e16933ca.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/e8645388-afc5-48e3-8f3f-80f82a5353dc.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/47d2bcee-b6c1-464e-a443-e3527d029b0f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/18f03fe5-a60f-48c5-8cb8-13da750ca395.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/cdd3cdfb-1988-482a-850f-ec02aff07f45.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/a3944b1a-5464-406f-a97e-691702019575.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/61c97d21-6576-4624-aa8b-37839293aebd.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/1db0b78b-42f2-44fd-b78c-43f5fc760fa1.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/393f4033-c815-48d4-bf23-1eb42b4d30db.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/76666027-45db-4baa-8197-6e0f886966a8.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/24538f21-45ca-4dab-addb-65f655a688e2.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/ad749af2-93d7-4bf3-982f-a558175fd806.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/f477331d-33dc-4dfe-be46-88d5223fb439.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/8267a2cc-0984-4410-87db-c02530703a98.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/3fcbb458-7362-47bb-a426-6b542eb2f014.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/5d011771-de98-48f3-8565-7fc1ef6439c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/145b9461-d6cc-4341-8d96-ec3bacace059.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/0685a1b5-34eb-4c13-8c90-bc82735e527f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/30c71fa2-8842-419c-89db-addd30268f5b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/fa731eb2-b049-44bc-a12d-f42f7cea991d.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/2a0dbd55-2eae-44ea-b787-5379594979ff.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/bd6fe48d-f356-4af1-bb7e-4de42b1e6272.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/c2485f5d-8bb1-4a45-a752-efffe9cd55c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/281d6a98-5f8e-4bc4-8bae-72e7e16933ca.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/e8645388-afc5-48e3-8f3f-80f82a5353dc.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/47d2bcee-b6c1-464e-a443-e3527d029b0f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/18f03fe5-a60f-48c5-8cb8-13da750ca395.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/cdd3cdfb-1988-482a-850f-ec02aff07f45.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/a3944b1a-5464-406f-a97e-691702019575.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/61c97d21-6576-4624-aa8b-37839293aebd.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/1db0b78b-42f2-44fd-b78c-43f5fc760fa1.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/393f4033-c815-48d4-bf23-1eb42b4d30db.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/76666027-45db-4baa-8197-6e0f886966a8.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/24538f21-45ca-4dab-addb-65f655a688e2.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/ad749af2-93d7-4bf3-982f-a558175fd806.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/f477331d-33dc-4dfe-be46-88d5223fb439.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/8267a2cc-0984-4410-87db-c02530703a98.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/3fcbb458-7362-47bb-a426-6b542eb2f014.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/5d011771-de98-48f3-8565-7fc1ef6439c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/145b9461-d6cc-4341-8d96-ec3bacace059.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/0685a1b5-34eb-4c13-8c90-bc82735e527f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/30c71fa2-8842-419c-89db-addd30268f5b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/fa731eb2-b049-44bc-a12d-f42f7cea991d.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/2a0dbd55-2eae-44ea-b787-5379594979ff.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/bd6fe48d-f356-4af1-bb7e-4de42b1e6272.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/c2485f5d-8bb1-4a45-a752-efffe9cd55c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/281d6a98-5f8e-4bc4-8bae-72e7e16933ca.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/e8645388-afc5-48e3-8f3f-80f82a5353dc.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/47d2bcee-b6c1-464e-a443-e3527d029b0f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/18f03fe5-a60f-48c5-8cb8-13da750ca395.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/cdd3cdfb-1988-482a-850f-ec02aff07f45.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/a3944b1a-5464-406f-a97e-691702019575.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/61c97d21-6576-4624-aa8b-37839293aebd.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/1db0b78b-42f2-44fd-b78c-43f5fc760fa1.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/393f4033-c815-48d4-bf23-1eb42b4d30db.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/76666027-45db-4baa-8197-6e0f886966a8.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/24538f21-45ca-4dab-addb-65f655a688e2.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/ad749af2-93d7-4bf3-982f-a558175fd806.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/f477331d-33dc-4dfe-be46-88d5223fb439.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/8267a2cc-0984-4410-87db-c02530703a98.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/3fcbb458-7362-47bb-a426-6b542eb2f014.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/5d011771-de98-48f3-8565-7fc1ef6439c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/145b9461-d6cc-4341-8d96-ec3bacace059.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/0685a1b5-34eb-4c13-8c90-bc82735e527f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/e4fb5038-c29e-4954-98a0-72a882e4841f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/e4fb5038-c29e-4954-98a0-72a882e4841f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/e4fb5038-c29e-4954-98a0-72a882e4841f.json: "
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+1650367288176	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile35b3Km"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1650367289166	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile35b3Km/search.json.mozlz4", (void 0)))
+1650367291941	Marionette	INFO	Listening on port 39357
+1650367292113	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.nemlig.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1790280035, line 1: unreachable code after return statement
+JavaScript warning: https://www.nemlig.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1790280035, line 1: unreachable code after return statement
+JavaScript warning: https://www.nemlig.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1790280035, line 1: unreachable code after return statement
+JavaScript warning: https://www.nemlig.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1790280035 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.nemlig.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1790280035 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/30c71fa2-8842-419c-89db-addd30268f5b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/fa731eb2-b049-44bc-a12d-f42f7cea991d.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/2a0dbd55-2eae-44ea-b787-5379594979ff.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/bd6fe48d-f356-4af1-bb7e-4de42b1e6272.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/c2485f5d-8bb1-4a45-a752-efffe9cd55c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/281d6a98-5f8e-4bc4-8bae-72e7e16933ca.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/e8645388-afc5-48e3-8f3f-80f82a5353dc.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/47d2bcee-b6c1-464e-a443-e3527d029b0f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/18f03fe5-a60f-48c5-8cb8-13da750ca395.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/cdd3cdfb-1988-482a-850f-ec02aff07f45.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/a3944b1a-5464-406f-a97e-691702019575.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/61c97d21-6576-4624-aa8b-37839293aebd.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/1db0b78b-42f2-44fd-b78c-43f5fc760fa1.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/393f4033-c815-48d4-bf23-1eb42b4d30db.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/76666027-45db-4baa-8197-6e0f886966a8.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/24538f21-45ca-4dab-addb-65f655a688e2.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/ad749af2-93d7-4bf3-982f-a558175fd806.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/f477331d-33dc-4dfe-be46-88d5223fb439.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/8267a2cc-0984-4410-87db-c02530703a98.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/3fcbb458-7362-47bb-a426-6b542eb2f014.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/5d011771-de98-48f3-8565-7fc1ef6439c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/145b9461-d6cc-4341-8d96-ec3bacace059.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/0685a1b5-34eb-4c13-8c90-bc82735e527f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/30c71fa2-8842-419c-89db-addd30268f5b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/fa731eb2-b049-44bc-a12d-f42f7cea991d.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/2a0dbd55-2eae-44ea-b787-5379594979ff.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/bd6fe48d-f356-4af1-bb7e-4de42b1e6272.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/c2485f5d-8bb1-4a45-a752-efffe9cd55c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/281d6a98-5f8e-4bc4-8bae-72e7e16933ca.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/e8645388-afc5-48e3-8f3f-80f82a5353dc.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/47d2bcee-b6c1-464e-a443-e3527d029b0f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/18f03fe5-a60f-48c5-8cb8-13da750ca395.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/cdd3cdfb-1988-482a-850f-ec02aff07f45.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/a3944b1a-5464-406f-a97e-691702019575.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/61c97d21-6576-4624-aa8b-37839293aebd.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/1db0b78b-42f2-44fd-b78c-43f5fc760fa1.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/393f4033-c815-48d4-bf23-1eb42b4d30db.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/76666027-45db-4baa-8197-6e0f886966a8.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/24538f21-45ca-4dab-addb-65f655a688e2.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/ad749af2-93d7-4bf3-982f-a558175fd806.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/f477331d-33dc-4dfe-be46-88d5223fb439.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/8267a2cc-0984-4410-87db-c02530703a98.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/3fcbb458-7362-47bb-a426-6b542eb2f014.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/5d011771-de98-48f3-8565-7fc1ef6439c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/145b9461-d6cc-4341-8d96-ec3bacace059.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/0685a1b5-34eb-4c13-8c90-bc82735e527f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/30c71fa2-8842-419c-89db-addd30268f5b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/fa731eb2-b049-44bc-a12d-f42f7cea991d.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/2a0dbd55-2eae-44ea-b787-5379594979ff.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/bd6fe48d-f356-4af1-bb7e-4de42b1e6272.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/c2485f5d-8bb1-4a45-a752-efffe9cd55c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/281d6a98-5f8e-4bc4-8bae-72e7e16933ca.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/e8645388-afc5-48e3-8f3f-80f82a5353dc.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/47d2bcee-b6c1-464e-a443-e3527d029b0f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/18f03fe5-a60f-48c5-8cb8-13da750ca395.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/cdd3cdfb-1988-482a-850f-ec02aff07f45.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/a3944b1a-5464-406f-a97e-691702019575.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/61c97d21-6576-4624-aa8b-37839293aebd.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/1db0b78b-42f2-44fd-b78c-43f5fc760fa1.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/393f4033-c815-48d4-bf23-1eb42b4d30db.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/76666027-45db-4baa-8197-6e0f886966a8.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/24538f21-45ca-4dab-addb-65f655a688e2.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/ad749af2-93d7-4bf3-982f-a558175fd806.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/f477331d-33dc-4dfe-be46-88d5223fb439.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/8267a2cc-0984-4410-87db-c02530703a98.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/3fcbb458-7362-47bb-a426-6b542eb2f014.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/5d011771-de98-48f3-8565-7fc1ef6439c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/145b9461-d6cc-4341-8d96-ec3bacace059.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/0685a1b5-34eb-4c13-8c90-bc82735e527f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/e4fb5038-c29e-4954-98a0-72a882e4841f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/e4fb5038-c29e-4954-98a0-72a882e4841f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/e4fb5038-c29e-4954-98a0-72a882e4841f.json: "
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+1650367592086	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1xbGHL"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1650367592640	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1xbGHL/search.json.mozlz4", (void 0)))
+1650367595155	Marionette	INFO	Listening on port 35617
+1650367595273	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.nemlig.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=719443154, line 1: unreachable code after return statement
+JavaScript warning: https://www.nemlig.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=719443154, line 1: unreachable code after return statement
+JavaScript warning: https://www.nemlig.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=719443154, line 1: unreachable code after return statement
+JavaScript warning: https://www.nemlig.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=719443154 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.nemlig.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=719443154 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/30c71fa2-8842-419c-89db-addd30268f5b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/fa731eb2-b049-44bc-a12d-f42f7cea991d.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/2a0dbd55-2eae-44ea-b787-5379594979ff.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/bd6fe48d-f356-4af1-bb7e-4de42b1e6272.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/c2485f5d-8bb1-4a45-a752-efffe9cd55c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/281d6a98-5f8e-4bc4-8bae-72e7e16933ca.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/e8645388-afc5-48e3-8f3f-80f82a5353dc.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/47d2bcee-b6c1-464e-a443-e3527d029b0f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/18f03fe5-a60f-48c5-8cb8-13da750ca395.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/cdd3cdfb-1988-482a-850f-ec02aff07f45.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/a3944b1a-5464-406f-a97e-691702019575.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/61c97d21-6576-4624-aa8b-37839293aebd.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/1db0b78b-42f2-44fd-b78c-43f5fc760fa1.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/393f4033-c815-48d4-bf23-1eb42b4d30db.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/76666027-45db-4baa-8197-6e0f886966a8.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/24538f21-45ca-4dab-addb-65f655a688e2.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/ad749af2-93d7-4bf3-982f-a558175fd806.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/f477331d-33dc-4dfe-be46-88d5223fb439.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/8267a2cc-0984-4410-87db-c02530703a98.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/3fcbb458-7362-47bb-a426-6b542eb2f014.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/5d011771-de98-48f3-8565-7fc1ef6439c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/145b9461-d6cc-4341-8d96-ec3bacace059.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/0685a1b5-34eb-4c13-8c90-bc82735e527f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/30c71fa2-8842-419c-89db-addd30268f5b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/fa731eb2-b049-44bc-a12d-f42f7cea991d.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/2a0dbd55-2eae-44ea-b787-5379594979ff.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/bd6fe48d-f356-4af1-bb7e-4de42b1e6272.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/c2485f5d-8bb1-4a45-a752-efffe9cd55c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/281d6a98-5f8e-4bc4-8bae-72e7e16933ca.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/e8645388-afc5-48e3-8f3f-80f82a5353dc.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/47d2bcee-b6c1-464e-a443-e3527d029b0f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/18f03fe5-a60f-48c5-8cb8-13da750ca395.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/cdd3cdfb-1988-482a-850f-ec02aff07f45.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/a3944b1a-5464-406f-a97e-691702019575.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/61c97d21-6576-4624-aa8b-37839293aebd.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/1db0b78b-42f2-44fd-b78c-43f5fc760fa1.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/393f4033-c815-48d4-bf23-1eb42b4d30db.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/76666027-45db-4baa-8197-6e0f886966a8.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/24538f21-45ca-4dab-addb-65f655a688e2.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/ad749af2-93d7-4bf3-982f-a558175fd806.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/f477331d-33dc-4dfe-be46-88d5223fb439.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/8267a2cc-0984-4410-87db-c02530703a98.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/3fcbb458-7362-47bb-a426-6b542eb2f014.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/5d011771-de98-48f3-8565-7fc1ef6439c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/145b9461-d6cc-4341-8d96-ec3bacace059.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/0685a1b5-34eb-4c13-8c90-bc82735e527f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/30c71fa2-8842-419c-89db-addd30268f5b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/fa731eb2-b049-44bc-a12d-f42f7cea991d.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/2a0dbd55-2eae-44ea-b787-5379594979ff.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/bd6fe48d-f356-4af1-bb7e-4de42b1e6272.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/c2485f5d-8bb1-4a45-a752-efffe9cd55c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/281d6a98-5f8e-4bc4-8bae-72e7e16933ca.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/e8645388-afc5-48e3-8f3f-80f82a5353dc.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/47d2bcee-b6c1-464e-a443-e3527d029b0f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/18f03fe5-a60f-48c5-8cb8-13da750ca395.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/cdd3cdfb-1988-482a-850f-ec02aff07f45.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/a3944b1a-5464-406f-a97e-691702019575.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/61c97d21-6576-4624-aa8b-37839293aebd.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/1db0b78b-42f2-44fd-b78c-43f5fc760fa1.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/393f4033-c815-48d4-bf23-1eb42b4d30db.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/76666027-45db-4baa-8197-6e0f886966a8.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/24538f21-45ca-4dab-addb-65f655a688e2.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/ad749af2-93d7-4bf3-982f-a558175fd806.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/f477331d-33dc-4dfe-be46-88d5223fb439.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/8267a2cc-0984-4410-87db-c02530703a98.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/3fcbb458-7362-47bb-a426-6b542eb2f014.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/5d011771-de98-48f3-8565-7fc1ef6439c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/145b9461-d6cc-4341-8d96-ec3bacace059.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/0685a1b5-34eb-4c13-8c90-bc82735e527f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/e4fb5038-c29e-4954-98a0-72a882e4841f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/e4fb5038-c29e-4954-98a0-72a882e4841f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/e4fb5038-c29e-4954-98a0-72a882e4841f.json: "
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.

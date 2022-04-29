@@ -89,7 +89,7 @@ def total_price():
     print(str(total) + ' kr.')
     return total 
 
-#total_price()
+total_price()
 
 #Opgave 4 - Lav et barchart over alle Womens Fiction bøger fra http://books.toscrape.com/catalogue/category/books/womens-fiction_9/index.html
 #Sorter efter pris
