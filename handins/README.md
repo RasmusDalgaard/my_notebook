@@ -15,3 +15,13 @@ Instruktioner:
 
 Udkommenter linjerne hvor de 4 metoder bliver kaldt.
 I opgave 4 kan bar chart ses i filen handin_02_charts og kan eksekveres i Jupyter Notebooks.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Handin 03 - Lineær Regression - Opgave 32 i Excel
+Delopgaver - 4/5 - Den sidste delopgave gav ikke helt mening
+
+Instruktioner:
+
+Udkommentér lnje 13 i handin_03.py for at downloade cars.csv
+Kør jupyter notebook handin_03_charts for at se svaret på de resterende delopgaver.
